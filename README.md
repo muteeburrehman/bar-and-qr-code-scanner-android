@@ -13,8 +13,8 @@ The QR Code Scanner App is a mobile application developed for Android devices, o
 
 - **QR Code Scanning:** Utilize the device's camera to scan QR codes effortlessly.
 - **Information Display:** View detailed information embedded in the scanned QR codes.
-![photo_2024-03-11_16-18-30](https://github.com/muteeburrehman/qr-code-scanner-android/assets/139336141/55dc1a81-f5e4-4669-8074-e03d7a732ebb | width=100)
-![photo_2024-03-11_16-18-33](https://github.com/muteeburrehman/qr-code-scanner-android/assets/139336141/c2500b0f-a6b1-4867-91a9-d1c816a0206e | width=100)
+![Screenshot from 2024-03-11 18-43-27](https://github.com/muteeburrehman/qr-code-scanner-android/assets/139336141/c3a172bb-fe28-47c0-87bd-78d009206102)
+![resize-17101650501451201400photo20240311161833](https://github.com/muteeburrehman/qr-code-scanner-android/assets/139336141/1ce43183-f59c-4637-bbe9-0099d202174f)
 
 
 
