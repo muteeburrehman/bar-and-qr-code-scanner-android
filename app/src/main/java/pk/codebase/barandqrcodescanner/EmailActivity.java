@@ -48,11 +48,10 @@ public class EmailActivity extends AppCompatActivity implements View.OnClickList
 
     @Override
     public void onClick(View v) {
+        int id = v.getId();
+        if (id == R.id.btnScanBarcode) {
+            startActivity(new Intent(EmailActivity.this, ScannedBarcodeActivity.class));
 
-        switch (v.getId()) {
-            case R.id.btnScanBarcode:
-                startActivity(new Intent(EmailActivity.this, ScannedBarcodeActivity.class));
-                break;
         }
     }
 }
