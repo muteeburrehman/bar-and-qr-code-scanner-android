@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BarAndQrCodeScanner</string>
+    <string name="app_name">QR Code App</string>
     <string name="scan_barcode">SCAN BARCODE</string>
     <string name="send_email">Send email\n</string>
 </resources>
